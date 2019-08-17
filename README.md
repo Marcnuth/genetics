@@ -70,5 +70,7 @@ from genetics import GA
 # Citation
 
 ```
-Zeng X, Yuan S, Huang X, et al. Identification of cytokine via an improved genetic algorithm[J]. Frontiers of Computer Science, 2015, 9(4): 643-651.
+Zeng X, Yuan S, Huang X, et al. 
+Identification of cytokine via an improved genetic algorithm[J]. 
+Frontiers of Computer Science, 2015, 9(4): 643-651.
 ```
