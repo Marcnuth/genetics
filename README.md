@@ -66,3 +66,9 @@ from genetics import GA
 (sample_result, sample_genes, sample_scores) = GA(train, valid, RandomForestClassfier).select(axis=1)
 
 ```
+
+# Citation
+
+```
+Zeng X, Yuan S, Huang X, et al. Identification of cytokine via an improved genetic algorithm[J]. Frontiers of Computer Science, 2015, 9(4): 643-651.
+```
