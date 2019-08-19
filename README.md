@@ -1,4 +1,7 @@
 # Introduction
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/genetics?color=lightgreen&label=PyPI)
+
 Genetic Algorithm in Python, which could be used for Sampling, Feature Select, Model Select, etc in Machine Learning
 
 
